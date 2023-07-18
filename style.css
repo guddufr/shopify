@@ -1,0 +1,209 @@
+*
+{
+    
+    margin: 0px;
+}
+
+
+
+
+
+.nav-item
+{
+font-size: 20px;
+/* word-spacing: 50px;
+letter-spacing: 0px; */
+}
+
+.srch
+{
+    font-size: 20px;
+    width: 100vh;
+}
+
+.btn
+{
+    color: antiquewhite;
+   outline-color: antiquewhite;
+   border-width: px;
+   background: #060606;
+   border-radius: 10px;
+}
+.brnd
+{
+    font-size: 41px;
+
+}
+
+.card
+{
+    padding: 5px;
+    margin: 40px;
+    background-color: rgba(0, 0, 0, 0.535);
+    color: #ffffff;
+    border: solid rgb(2, 1, 2);
+   
+}
+
+
+.logo
+{
+  border-radius: 100px;
+ width: 50px;
+margin: 10px;
+flex-wrap: nowrap;
+}
+.bg
+{
+    background-color: aqua;
+}
+.header 
+{
+    height: 15vh;
+
+    display: grid;
+    place-items: center;
+    background: black;
+    color: white ;
+    border-radius:100px;
+    margin: 20px;
+
+     }
+  
+  .typing-demo {
+    margin-top:20px;
+    width: 62ch;
+    animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px dotted;
+    text-align: center;
+
+    font-size: 2em;
+  }
+  
+  @keyframes typing {
+    from {
+      width: 0px
+    }
+  }
+      
+  @keyframes blink {
+    50% {
+      border-color: rebeccapurple
+    }
+  }
+
+.hd{
+   width: 110px;
+  margin: auto;
+
+}
+
+.mainbg
+{
+   background: #000 !important;
+}
+
+.car
+{
+    padding : 40px;
+    background-color: rgb(37, 40, 40);
+    color: aliceblue;
+}
+
+.brand
+{
+    height: 50px;
+    padding: 60px;
+}
+
+.card-1
+{
+    background-color:rgb(49, 193, 255) ;
+    color: aliceblue;
+    border:solid #d5ef3d;
+    
+}
+
+
+
+.cards
+{
+    size: 100px;
+}
+
+.text
+{
+    background-color: rgb(232, 94, 94);
+    padding: 30px;
+    margin-top: 20px;
+    font-family: 'Smooch', cursive;
+    font-size: 40px;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+}
+
+
+.text1
+{
+    background-color: rgb(16, 16, 16);
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: antiquewhite;
+    font-family: 'Kaushan Script',cursive;
+     word-spacing: 19px;
+     font-size: 55px;
+     letter-spacing: 8px;
+}
+
+.text2
+{
+    background-color: rgb(16, 16, 16);
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: antiquewhite;
+    font-family: 'Kaushan Script',cursive;
+}
+
+.text3
+{
+    background-color: rgb(16, 16, 16);
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: antiquewhite;
+    font-family: 'Kaushan Script', cursive;
+
+
+    
+}
+.lastr
+{
+    background-color: #000;
+}
+
+.preend
+{
+    background-color: black;
+    height: 400px;
+   margin-bottom: 30px;
+}
+
+.album
+{
+  height: 250px;
+  position: relative;
+
+top : 70px;
+box-shadow: 0 10px 20px #0c3d98;
+
+}
+
+
+.album:hover
+{
+   color: #ffffff;
+}
